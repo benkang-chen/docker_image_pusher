@@ -1,3 +1,3 @@
 nginx
-#支持指定架构
+#支持指定架
 milvusdb/milvus:v2.4.13 --platform=linux/arm64
